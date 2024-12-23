@@ -1,7 +1,7 @@
 body {
       margin: 0;
       padding: 0;
-      background: radial-gradient(circle, #000000, #0a0a0a, #1a1a1a);
+      background: radial-gradient(circle, #000000, #0a0a0a, ##f02211);
       color: #fff;
       font-family: 'Courier New', Courier, monospace;
       display: flex;
