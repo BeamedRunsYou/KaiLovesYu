@@ -1,7 +1,7 @@
 body {
       margin: 0;
       padding: 0;
-      background: radial-gradient(circle, #000000, #0a0a0a, ##f02211);
+      background: radial-gradient(circle, #000000, #0a0a0a, #1a1a1a);
       color: #fff;
       font-family: 'Courier New', Courier, monospace;
       display: flex;
@@ -145,7 +145,7 @@ body {
       transform: translateX(-50%);
       font-size: 1.5rem;
       color: rgba(255, 0, 0, 0.8);
-      text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000;
+      text-shadow: 0 0 10px #1a1a1a, 0 0 20px #1a1a1a;
       animation: warning-flicker 2s infinite;
   }
 
